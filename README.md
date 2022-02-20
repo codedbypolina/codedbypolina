@@ -5,5 +5,5 @@ Two months later into this challenge,
 - 🙌🏻 I learned the basics of HTML, CSS, JavaScript, Bootstrap and API
 - 👩🏼‍💻 I created my first [landing page](https://github.com/codedbypolina/landing-page.git) and [Vanilla Weather Forecast webpage](https://github.com/codedbypolina/vanila-weather-app) using API
 - ☀ I'm currently learning Responsive Design
-- 🌿 My next steps is to learn React
+- 🌿 My next step is to learn React
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/polinashliakhina/)
