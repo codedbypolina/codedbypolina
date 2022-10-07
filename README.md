@@ -1,4 +1,4 @@
-## Hey there👋🏻
+## 👋🏻 Hey there
 I am an aspiring Front-End Web Developer, majoring in Web Design/Development and minoring in Computer Science at the University of Central Florida📚 Eager to improve my skills, I have a daily goal of learning Web Development outside of my classes using resources found on the internet. Here is a snippet of my progress so far:
 
 - 🧠 Fundamental knowledge of HTML, CSS, JavaScript, Bootstrap, Responsive Design, DOM and API
@@ -8,13 +8,13 @@ I am an aspiring Front-End Web Developer, majoring in Web Design/Development and
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/polinashliakhina/)
 
 
-## GitHub Profile Stats
+## 🎯 GitHub Profile Stats
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbypolina&theme=dracula" alt="Gift's LangStat" width="400px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbypolina&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
 </div>
 
-## Languages and Tools:
+## 👩🏼‍💻 Languages and Tools:
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
