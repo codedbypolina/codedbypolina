@@ -10,8 +10,8 @@ I am an aspiring Front-End Web Developer, majoring in Web Design/Development and
 
 ## GitHub Profile Stats
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbypolina&theme=dracula" alt="Gift's LangStat" width="300px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbypolina&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="300px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbypolina&theme=dracula" alt="Gift's LangStat" width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbypolina&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="450px"/>
 </div>
 
 ## Languages and Tools:
