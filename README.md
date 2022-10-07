@@ -8,6 +8,12 @@ I am an aspiring Front-End Web Developer, majoring in Web Design/Development and
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/polinashliakhina/)
 
 
+## GitHub Profile Stats
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedbypolina&theme=dracula" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbypolina&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+
 ## Languages and Tools:
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
