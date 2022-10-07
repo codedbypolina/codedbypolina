@@ -1,4 +1,4 @@
-## Hey there👩🏼‍💻
+## Hey there👋🏻
 I am an aspiring Front-End Web Developer, majoring in Web Design/Development and minoring in Computer Science at the University of Central Florida📚 Eager to improve my skills, I have a daily goal of learning Web Development outside of my classes using resources found on the internet. Here is a snippet of my progress so far:
 
 - 🧠 Fundamental knowledge of HTML, CSS, JavaScript, Bootstrap, Responsive Design, DOM and API
